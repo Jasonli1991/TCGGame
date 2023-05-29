@@ -424,7 +424,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username
+  m_Text: "\u904A\u6232\u540D\u7A31"
 --- !u!222 &101236787
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -580,7 +580,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Confirm
+  m_Text: "\u8ACB\u518D\u6B21\u8F38\u5165\u5BC6\u78BC"
 --- !u!222 &143283469
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -734,7 +734,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Password
+  m_Text: "\u5BC6\u78BC"
 --- !u!222 &210327324
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1533,7 +1533,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: REGISTER
+  m_Text: "\u8A3B\u518A"
 --- !u!222 &632901079
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1682,7 +1682,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u73A9\u5BB6\u540D\u7A31"
+  m_Text: "\u904A\u6232\u540D\u7A31"
 --- !u!222 &649902633
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3098,7 +3098,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: E-Mail
+  m_Text: "\u4FE1\u7BB1"
 --- !u!222 &1563361835
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3862,7 +3862,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: REGISTER
+  m_Text: "\u5275\u5EFA\u5E33\u865F"
 --- !u!222 &2097017276
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5155,7 +5155,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Email...
+  m_Text: "\u4FE1\u7BB1..."
 --- !u!222 &3129754221430591217
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5235,7 +5235,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Password Recovery
+  m_Text: "\u627E\u56DE\u5BC6\u78BC"
 --- !u!222 &3129754221501770265
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5343,7 +5343,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Enter your Email
+  m_Text: "\u8ACB\u8F38\u5165\u60A8\u7684\u4FE1\u7BB1"
 --- !u!1 &3129754221573662085
 GameObject:
   m_ObjectHideFlags: 0
@@ -6122,7 +6122,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Password...
+  m_Text: "\u65B0\u5BC6\u78BC..."
 --- !u!224 &7793941511387164235
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6202,7 +6202,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Code...
+  m_Text: "\u8F38\u5165\u9A57\u8B49\u78BC..."
 --- !u!224 &7793941511451195865
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6282,9 +6282,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Email was sent with a code.
-
-    Enter the code here to reset your password.'
+  m_Text: "\u5DF2\u5BC4\u51FA\u9A57\u8B49\u78BC\u81F3\u60A8\u7684\u4FE1\u7BB1\n\u8ACB\u5728\u6B64\u8F38\u5165\u9A57\u8B49\u78BC\u4EE5\u91CD\u7F6E\u60A8\u7684\u5BC6\u78BC"
 --- !u!224 &7793941511459509723
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7031,7 +7029,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Confirm...
+  m_Text: "\u8ACB\u518D\u6B21\u8F38\u5165\u5BC6\u78BC..."
 --- !u!224 &7793941512003986067
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7219,4 +7217,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Password Recovery
+  m_Text: "\u627E\u56DE\u5BC6\u78BC"
