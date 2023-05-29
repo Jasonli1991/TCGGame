@@ -13,7 +13,7 @@ namespace TcgEngine.Client
     /// Represents the visual aspect of a card on the board.
     /// Will take the data from Card.cs and display it
     /// </summary>
-
+    
     public class BoardCard : MonoBehaviour
     {
         public SpriteRenderer card_sprite;
