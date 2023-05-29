@@ -1023,7 +1023,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: c56d3a307af0c8d48ae7d1adb958c922, type: 3}
-    m_FontSize: 26
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -1034,7 +1034,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: LEADERBOARD
+  m_Text: "\u6392\u884C\u699C"
 --- !u!222 &91156147
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1194,7 +1194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: Finding Opponent...
+  m_Text: "\u5C0B\u627E\u5C0D\u624B..."
 --- !u!222 &123468630
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1440,7 +1440,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELL
+  m_Text: "\u8CE3\u51FA"
 --- !u!222 &236675519
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2497,7 +2497,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username
+  m_Text: "\u73A9\u5BB6\u540D\u7A31"
 --- !u!222 &375899144
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3680,7 +3680,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BUY
+  m_Text: "\u8CFC\u8CB7"
 --- !u!222 &497888522
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4264,7 +4264,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELL
+  m_Text: "\u8CE3\u51FA"
 --- !u!222 &626189162
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4344,7 +4344,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'COST:'
+  m_Text: "\u8CBB\u7528:"
 --- !u!222 &632685563
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5262,7 +5262,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELECT
+  m_Text: "\u9078\u64C7"
 --- !u!222 &731028357
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5474,7 +5474,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: COLLECTION
+  m_Text: "\u6536\u85CF\u5EAB"
 --- !u!222 &746003926
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6127,7 +6127,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELECT
+  m_Text: "\u9078\u64C7"
 --- !u!222 &826953795
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7925,7 +7925,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SELECT
+  m_Text: "\u9078\u64C7"
 --- !u!222 &1007986735
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8744,7 +8744,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: OPEN PACKS
+  m_Text: "\u6253\u958B\u5361\u724C\u5305"
 --- !u!222 &1063419353
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9281,7 +9281,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cancel
+  m_Text: "\u53D6\u6D88"
 --- !u!222 &1092708197
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9823,7 +9823,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Friends
+  m_Text: "\u597D\u53CB"
 --- !u!222 &1162898796
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10077,7 +10077,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLAY
+  m_Text: "\u904A\u6232\u5927\u5EF3"
 --- !u!222 &1200094160
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11646,7 +11646,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PACKS
+  m_Text: "\u5546\u5E97"
 --- !u!222 &1325504744
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14102,7 +14102,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Card Description
+  m_Text: "\u5361\u724C\u63CF\u8FF0"
 --- !u!222 &1603102112
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14281,7 +14281,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLAY MULTI
+  m_Text: "\u591A\u4EBA\u9023\u7DDA\u5C0D\u6230"
 --- !u!222 &1626650282
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14779,7 +14779,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'RECEIVE:'
+  m_Text: "\u7372\u5F97:"
 --- !u!222 &1707023813
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14992,7 +14992,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BUY
+  m_Text: "\u8CFC\u8CB7"
 --- !u!222 &1724291094
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15072,7 +15072,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CARD
+  m_Text: "\u5361\u724C\u8CC7\u8A0A"
 --- !u!222 &1726359336
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15511,7 +15511,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'QUANTITY:'
+  m_Text: "\u6578\u91CF:"
 --- !u!222 &1774471046
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15744,7 +15744,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLAY SOLO
+  m_Text: "AI\u55AE\u4EBA\u6A21\u5F0F"
 --- !u!222 &1784353085
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18730,13 +18730,13 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
-    - m_Text: Name
+    - m_Text: "\u540D\u7A31"
       m_Image: {fileID: 0}
-    - m_Text: Attack
+    - m_Text: "\u653B\u64CA\u529B"
       m_Image: {fileID: 0}
-    - m_Text: HP
+    - m_Text: "\u751F\u547D\u503C"
       m_Image: {fileID: 0}
-    - m_Text: Mana
+    - m_Text: "\u6CD5\u529B\u503C"
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -18844,7 +18844,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mythic
+  m_Text: "\u50B3\u5947"
 --- !u!222 &396921782153578562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19080,10 +19080,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: c56d3a307af0c8d48ae7d1adb958c922, type: 3}
-    m_FontSize: 70
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 0
     m_MaxSize: 80
     m_Alignment: 1
     m_AlignByGeometry: 0
@@ -19091,7 +19091,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DECKS
+  m_Text: "\u5EFA\u69CB\u724C\u7D44"
 --- !u!222 &396921782209701985
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20525,7 +20525,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Rare
+  m_Text: "\u53F2\u8A69"
 --- !u!222 &396921782539149254
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20910,7 +20910,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Deck Name
+  m_Text: "\u724C\u7D44\u540D\u7A31"
 --- !u!222 &396921782672306445
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21567,7 +21567,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 4d69ba2a375d995458fc2adf4937139b, type: 3}
-    m_FontSize: 50
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -21578,7 +21578,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DECKS
+  m_Text: "\u724C\u7D44"
 --- !u!222 &396921782774752775
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21966,7 +21966,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Common
+  m_Text: "\u4E00\u822C"
 --- !u!222 &396921782820785214
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23423,7 +23423,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Owned
+  m_Text: "\u5DF2\u64C1\u6709"
 --- !u!222 &396921783251827178
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23660,7 +23660,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Not Owned
+  m_Text: "\u5C1A\u672A\u53D6\u5F97"
 --- !u!222 &396921783315923973
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23817,7 +23817,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Artifacts
+  m_Text: "\u6CD5\u5668"
 --- !u!222 &396921783374516598
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23859,7 +23859,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Creatures
+  m_Text: "\u751F\u7269"
 --- !u!222 &396921783379648306
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24129,7 +24129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Uncommon
+  m_Text: "\u7A00\u6709"
 --- !u!222 &396921783434446694
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25244,7 +25244,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SEARCH
+  m_Text: "\u641C\u7D22"
 --- !u!222 &396921783838495103
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25420,7 +25420,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SORT
+  m_Text: "\u6392\u5E8F"
 --- !u!222 &396921783887548018
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25614,7 +25614,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Name
+  m_Text: "\u540D\u7A31"
 --- !u!222 &396921783954672324
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25743,7 +25743,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Spells
+  m_Text: "\u6CD5\u8853"
 --- !u!222 &396921783987010465
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26092,7 +26092,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Secrets
+  m_Text: "\u9677\u9631"
 --- !u!222 &396921784111828143
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26230,7 +26230,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: SAVE
+  m_Text: "\u5132\u5B58"
 --- !u!222 &396921784147279483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28709,7 +28709,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DEFEATS
+  m_Text: "\u6557\u5834"
 --- !u!224 &3342894375335405775
 RectTransform:
   m_ObjectHideFlags: 0
@@ -29848,7 +29848,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CONFIRM
+  m_Text: "\u78BA\u8A8D"
 --- !u!224 &3342894375513242802
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31045,7 +31045,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PASSWORD
+  m_Text: "\u5BC6\u78BC"
 --- !u!224 &3342894375701584530
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31129,7 +31129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: E-Mail
+  m_Text: "\u4FE1\u7BB1"
 --- !u!224 &3342894375727929264
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31477,7 +31477,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CARDBACK
+  m_Text: "\u5361\u80CC"
 --- !u!224 &3342894375750373571
 RectTransform:
   m_ObjectHideFlags: 0
@@ -32437,7 +32437,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SEND CONFIRMATION
+  m_Text: "\u5BC4\u51FA\u9A57\u8B49\u4FE1"
 --- !u!114 &3342894375922929743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33316,7 +33316,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CARDBACKS
+  m_Text: "\u5361\u80CC\u6A23\u5F0F"
 --- !u!224 &3342894376010210657
 RectTransform:
   m_ObjectHideFlags: 0
@@ -34172,7 +34172,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CHANGE
+  m_Text: "\u8B8A\u66F4"
 --- !u!224 &3342894376104381837
 RectTransform:
   m_ObjectHideFlags: 0
@@ -34878,7 +34878,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PREVIOUS PASSWORD
+  m_Text: "\u8ACB\u8F38\u5165\u820A\u5BC6\u78BC"
 --- !u!224 &3342894376196552366
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35679,7 +35679,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: LEVEL
+  m_Text: "\u7B49\u7D1A"
 --- !u!224 &3342894376299205844
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35892,7 +35892,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: WINRATE
+  m_Text: "\u52DD\u7387"
 --- !u!224 &3342894376318342270
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35972,7 +35972,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ELO
+  m_Text: "\u7A4D\u5206"
 --- !u!224 &3342894376410410922
 RectTransform:
   m_ObjectHideFlags: 0
@@ -37067,7 +37067,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: AVATARS
+  m_Text: "\u982D\u50CF"
 --- !u!224 &3342894376551857907
 RectTransform:
   m_ObjectHideFlags: 0
@@ -37870,7 +37870,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NEW PASSWORD
+  m_Text: "\u8ACB\u51FA\u5165\u65B0\u5BC6\u78BC"
 --- !u!224 &3342894376684552889
 RectTransform:
   m_ObjectHideFlags: 0
@@ -38622,7 +38622,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CHANGE
+  m_Text: "\u8B8A\u66F4"
 --- !u!224 &3342894376831582104
 RectTransform:
   m_ObjectHideFlags: 0
@@ -39491,7 +39491,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: RETYPE
+  m_Text: "\u8ACB\u518D\u6B21\u8F38\u5165\u65B0\u5BC6\u78BC"
 --- !u!222 &3342894376931534316
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -39800,7 +39800,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: VICTORIES
+  m_Text: "\u52DD\u5834"
 --- !u!224 &3342894376947302893
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40094,7 +40094,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SETTINGS
+  m_Text: "\u5E33\u865F\u8A2D\u5B9A"
 --- !u!224 &3342894376994421169
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40308,7 +40308,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username
+  m_Text: "\u73A9\u5BB6\u540D\u7A31"
 --- !u!224 &3342894377011880112
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40888,7 +40888,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CARDS OWNED
+  m_Text: "\u6536\u85CF"
 --- !u!224 &3342894377116898303
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40950,7 +40950,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Email
+  m_Text: "\u4FE1\u7BB1"
 --- !u!224 &3342894377127575303
 RectTransform:
   m_ObjectHideFlags: 0
@@ -41033,7 +41033,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.9
-  m_Text: LOGOUT
+  m_Text: "\u767B\u51FA"
 --- !u!224 &3342894377142678360
 RectTransform:
   m_ObjectHideFlags: 0
@@ -41520,7 +41520,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username
+  m_Text: "\u73A9\u5BB6\u540D\u7A31"
 --- !u!222 &4526323995519602341
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -41873,7 +41873,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ELO
+  m_Text: "\u7A4D\u5206"
 --- !u!222 &4526323995700633365
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -42052,7 +42052,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Winrate
+  m_Text: "\u52DD\u7387"
 --- !u!1 &4526323995917962076
 GameObject:
   m_ObjectHideFlags: 0
@@ -42628,7 +42628,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: REQUESTS
+  m_Text: "\u78BA\u8A8D\u8ACB\u6C42"
 --- !u!222 &6543051624064860555
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -42848,7 +42848,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: FRIENDS
+  m_Text: "\u597D\u53CB\u540D\u55AE"
 --- !u!222 &6543051624350387893
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -43642,7 +43642,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: REMOVE
+  m_Text: "\u79FB\u9664"
 --- !u!222 &6543051624902431885
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -43907,7 +43907,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ADD
+  m_Text: "\u52A0\u5165"
 --- !u!222 &6543051625107439481
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -44305,7 +44305,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username...
+  m_Text: "\u8ACB\u8F38\u5165\u73A9\u5BB6\u540D\u7A31..."
 --- !u!222 &6543051625420577737
 CanvasRenderer:
   m_ObjectHideFlags: 0
