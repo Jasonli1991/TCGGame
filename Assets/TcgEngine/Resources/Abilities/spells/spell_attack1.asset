@@ -36,4 +36,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Attack +1
-  desc: Target gains 1 attack.
+  desc: "Target gains 1 attack.\n\u76EE\u6A19\u984D\u5916\u7372\u5F97 1 \u6B21\u653B\u64CA"

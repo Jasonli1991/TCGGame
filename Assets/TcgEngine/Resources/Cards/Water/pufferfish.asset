@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 2
   hp: 5
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: b2a7fee1995653144b929fb5251bc098, type: 2}
-  text: Has +3 attack during the opponent's turn.
+  text: "Has +3 attack during the opponent's turn.\n\u5728\u5C0D\u624B\u7684\u56DE\u5408\u4E2D\u589E\u52A0
+    3 \u9EDE\u653B\u64CA\u529B"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

@@ -26,7 +26,8 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: 1332985f0711d0344a5b2eacb7f65947, type: 2}
-  text: <b>Each turn:</b> Kill characters with the lowest attack.
+  text: "<b>Each turn:</b> Kill characters with the lowest attack.\n<b>\u6BCF\u4E00\u56DE\u5408\u958B\u59CB\u6642:</b>
+    \u6BBA\u6B7B\u5834\u4E0A\u653B\u64CA\u529B\u6700\u4F4E\u7684\u751F\u7269\u724C"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

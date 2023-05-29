@@ -195,7 +195,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'COST:'
+  m_Text: "\u50F9\u683C:"
 --- !u!222 &38139061
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9201,7 +9201,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BUY
+  m_Text: "\u8CFC\u8CB7"
 --- !u!222 &1090089652
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11566,7 +11566,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: QUANTITY
+  m_Text: "\u6578\u91CF"
 --- !u!222 &1318424458
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12180,7 +12180,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PACK
+  m_Text: "\u5361\u724C\u5305"
 --- !u!222 &1394235347
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12687,7 +12687,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'QUANTITY:'
+  m_Text: "\u6578\u91CF:"
 --- !u!222 &1481816476
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23415,7 +23415,7 @@ MonoBehaviour:
     m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0

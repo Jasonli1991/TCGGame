@@ -27,9 +27,7 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: d753d81200fc2704b87c7c428459dfc6, type: 2}
   - {fileID: 11400000, guid: 2841093c6dacc2c419c03663c168fb72, type: 2}
-  text: 'Deal 1 damage.
-
-    Draw a card.'
+  text: "Deal 1 damage.\nDraw a card.\n\u9020\u6210 1 \u9EDE\u50B7\u5BB3\uFF0C\n\u62BD\u4E00\u5F35\u5361\u724C"
   desc: 
   spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}

@@ -33,4 +33,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Haste
-  desc: Can attack immediately.
+  desc: "Can attack immediately.\n\u53EF\u4EE5\u7ACB\u5373\u9032\u884C\u653B\u64CA"

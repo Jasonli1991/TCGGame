@@ -26,7 +26,8 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: 9b80ba55bcbc66949b3a3de28ca43e54, type: 2}
-  text: Reduce the hp of all characters to 1.
+  text: "Reduce the hp of all characters to 1.\n\u5C07\u6240\u6709\u751F\u7269\u7684\u751F\u547D\u503C\u964D\u70BA
+    1"
   desc: 
   spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}

@@ -27,7 +27,7 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: e60f3724f57913949bb49eef22c7759e, type: 2}
   - {fileID: 11400000, guid: e8de10b59328c0b4ab07db3040214ee9, type: 2}
-  text: <b>Attack:</b> Poison.
+  text: "<b>Attack:</b> Poison.\n<b>\u653B\u64CA:</b> \u9020\u6210\u4E2D\u6BD2\u72C0\u614B"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

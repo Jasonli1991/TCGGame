@@ -26,7 +26,8 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: a68118dba80398744b9a5bbc65d9ef1b, type: 2}
-  text: Whenever another character dies, draw 1 card.
+  text: "Whenever another character dies, draw 1 card.\n\u6BCF\u7576\u5176\u4ED6\u751F\u7269\u6B7B\u53BB\u6642\uFF0C\u62BD
+    1 \u5F35\u5361\u724C"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

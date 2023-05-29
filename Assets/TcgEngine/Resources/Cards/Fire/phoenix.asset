@@ -27,9 +27,8 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: fb089d9330eb2ac4893616bd179c3a56, type: 2}
   - {fileID: 11400000, guid: bbd458257afc3b143902562079df3124, type: 2}
-  text: '<b>Cast (3):</b> Deal 2 damage.
-
-    <b>Death:</b> turns into an egg.'
+  text: "<b>Cast (3):</b> Deal 2 damage.\n<b>Death:</b> turns into an egg.\n<b>\u6295\u64F2
+    (3):</b> \u9020\u6210 2 \u9EDE\u50B7\u5BB3\n<b>\u6B7B\u4EA1:</b> \u8B8A\u6210\u86CB"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

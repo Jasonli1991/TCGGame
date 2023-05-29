@@ -26,7 +26,7 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: 3e633064b8ed24c4294c69cb519efd9f, type: 2}
-  text: Haste
+  text: "Haste\n\u885D\u92D2"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

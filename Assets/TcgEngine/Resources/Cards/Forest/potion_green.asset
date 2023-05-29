@@ -27,7 +27,7 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: 16cdfeb08ea94fb4b8b65cd1bdbb6186, type: 2}
   - {fileID: 11400000, guid: 17a4c57c4a3b61c46aef2d187356bb7b, type: 2}
-  text: Target gains 2 HP and Taunt.
+  text: "Target gains 2 HP and Taunt.\n\u76EE\u6A19\u589E\u52A02\u9EDE\u751F\u547D\u503C\u53CA\u8CE6\u4E88\u5632\u8AF7\u72C0\u614B"
   desc: 
   spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}

@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 0
   hp: 7
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: f405476e6b47d6d498fe3d3211c16430, type: 2}
-  text: All blue cards cost 1 less.
+  text: "All blue cards cost 1 less.\n\u6240\u6709\u6D77\u6D0B\u5C6C\u6027\u5361\u724C\u6E1B\u5C11
+    1 \u9EDE\u6CD5\u529B\u503C\u6D88\u8017"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

@@ -26,7 +26,7 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: 6f97d9a9926ed0c48ae623df4b123314, type: 2}
-  text: <b>Trap:</b> Transform into fish.
+  text: "<b>Trap:</b> Transform into fish.\n<b>\u57CB\u4F0F:</b> \u4F7F\u653B\u64CA\u8005\u8B8A\u70BA\u9B5A"
   desc: 
   spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}

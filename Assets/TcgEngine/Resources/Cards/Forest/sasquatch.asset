@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 6
   hp: 4
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: a5a8e3bb261f9344a9b7318a2e68783f, type: 2}
-  text: <b>End Turn:</b> Go in stealth if you have other characters.
+  text: "<b>End Turn:</b> Go in stealth if you have other characters.\n<b>\u56DE\u5408\u7D50\u675F\u6642:</b>
+    \u5982\u679C\u4F60\u6709\u5176\u4ED6\u751F\u7269\u724C\uFF0C\u6B64\u724C\u9032\u5165\u6F5B\u884C\u72C0\u614B"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

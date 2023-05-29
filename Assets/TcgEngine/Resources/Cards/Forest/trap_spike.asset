@@ -26,7 +26,9 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: 81ea251d76fc09c4bab5a0b51da4dd4d, type: 2}
-  text: <b>Trap:</b> Paralyse the next attacker for 3 turns.
+  text: "<b>Trap:</b> Paralyse the next attacker for 3 turns.\n<b>\u57CB\u4F0F:</b>
+    \u4E0B\u4E00\u500B\u653B\u64CA\u6B64\u5361\u7684\u751F\u7269\u7121\u6CD5\u884C\u52D5
+    3 \u56DE\u5408"
   desc: 
   spawn_fx: {fileID: 0}
   death_fx: {fileID: 0}

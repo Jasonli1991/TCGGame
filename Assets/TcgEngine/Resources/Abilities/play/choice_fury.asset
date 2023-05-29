@@ -33,4 +33,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Fury
-  desc: Can attack twice per turn.
+  desc: "Can attack twice per turn.\n\u4E00\u56DE\u5408\u53EF\u4EE5\u653B\u64CA\u5169\u6B21"

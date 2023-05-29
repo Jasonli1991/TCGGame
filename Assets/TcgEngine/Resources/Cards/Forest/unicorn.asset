@@ -27,9 +27,8 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: c361771bc0f771e48bb0a97fd2325564, type: 2}
   - {fileID: 11400000, guid: dbdc04150338c3c4e8a6552b66924448, type: 2}
-  text: '<b>Play:</b> Give +2/2.
-
-    <b>Action:</b> Charge.'
+  text: "<b>Play:</b> Give +2/2.\n<b>Action:</b> Charge.\n<b>\u6253\u51FA:</b> \u7D66\u4E88
+    +2/2.\n<b>\u52D5\u4F5C:</b> \u885D\u92D2"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

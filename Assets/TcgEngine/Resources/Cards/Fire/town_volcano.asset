@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 0
   hp: 7
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: c0cea65074408f8498948aeae58fac68, type: 2}
-  text: All red cards have +2 attack.
+  text: "All red cards have +2 attack.\n\u6240\u6709\u71BE\u71C4\u5C6C\u6027\u5361\u724C\u589E\u52A0
+    2 \u9EDE\u653B\u64CA\u529B"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

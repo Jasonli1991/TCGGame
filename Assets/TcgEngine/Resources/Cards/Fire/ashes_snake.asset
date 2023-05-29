@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 6
   hp: 4
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 71b7fc6ed6ccb084486c85d48cc255f6, type: 2}
-  text: Stealth
+  text: "Stealth\n\u6F5B\u884C"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

@@ -35,4 +35,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Fire
-  desc: Deal 3 damage.
+  desc: "Deal 3 damage.\n\u9020\u6210 3 \u9EDE\u50B7\u5BB3"

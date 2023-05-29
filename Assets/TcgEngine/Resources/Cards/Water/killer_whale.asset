@@ -26,7 +26,8 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: de1ad2790d94f9a429e240dbab7d65d5, type: 2}
-  text: <b>Play:</b> Destroy a character with 4 or less attack.
+  text: "<b>Play:</b> Destroy a character with 4 or less attack.\n<b>\u6253\u51FA:</b>
+    \u6467\u6BC0\u4E00\u500B\u653B\u64CA\u529B\u4E0D\u8D85\u904E 4 \u7684\u89D2\u8272"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

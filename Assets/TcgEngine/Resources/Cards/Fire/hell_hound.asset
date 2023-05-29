@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 4
   hp: 2
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: ffaba7fb6f55c1f43bf7dd4a3aaab3b8, type: 2}
-  text: Fury
+  text: "Fury\n\u72C2\u6012"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

@@ -38,4 +38,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Silence
-  desc: Target abilities are canceled.
+  desc: "Target abilities are canceled.\n\u79FB\u9664\u76EE\u6A19\u6548\u679C"

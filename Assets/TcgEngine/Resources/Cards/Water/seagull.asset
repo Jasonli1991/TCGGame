@@ -26,7 +26,7 @@ MonoBehaviour:
   stats: []
   abilities:
   - {fileID: 11400000, guid: bd8a20981b906a34897ee485cfc1db6b, type: 2}
-  text: Flying
+  text: "Flying\n\u98DB\u884C"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

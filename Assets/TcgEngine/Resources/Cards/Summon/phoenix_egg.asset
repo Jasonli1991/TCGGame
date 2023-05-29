@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 0
   hp: 3
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: ff2043076c7d1ab4fb46e85f8e5f0f0e, type: 2}
-  text: After 3 turns, transforms into a Pheonix.
+  text: "After 3 turns, transforms into a Pheonix.\n3 \u56DE\u5408\u5F8C\u8B8A\u8EAB\u9CF3\u51F0"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

@@ -33,4 +33,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Taunt
-  desc: Your other characters cannot be attacked.
+  desc: "Your other characters cannot be attacked.\n\u4F60\u7684\u5176\u4ED6\u751F\u7269\u724C\u4E0D\u80FD\u88AB\u653B\u64CA"

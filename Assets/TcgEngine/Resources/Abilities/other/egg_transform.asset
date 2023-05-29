@@ -35,4 +35,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Transform Pheonix
-  desc: After 3 turns, transforms into a Pheonix.
+  desc: "After 3 turns, transforms into a Pheonix.\n\u4E09\u56DE\u5408\u904E\u5F8C\uFF0C\u8B8A\u8EAB\u70BA\u9CF3\u51F0"

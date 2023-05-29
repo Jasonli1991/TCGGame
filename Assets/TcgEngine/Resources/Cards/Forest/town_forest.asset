@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 0
   hp: 7
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: a9b2604692f4d6340960f244d4122253, type: 2}
-  text: All green cards have +2 HP.
+  text: "All green cards have +2 HP.\n\u6240\u6709\u68EE\u6797\u5C6C\u6027\u5361\u724C\u589E\u52A0
+    2 \u9EDE\u751F\u547D\u503C"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

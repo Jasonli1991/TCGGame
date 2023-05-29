@@ -33,4 +33,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Flying
-  desc: Can ignore Taunt.
+  desc: "Can ignore Taunt.\n\u7121\u8996\u5632\u8AF7"

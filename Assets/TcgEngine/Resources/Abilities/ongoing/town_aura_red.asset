@@ -36,4 +36,5 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Red Aura
-  desc: All Red characters gain +2 attack.
+  desc: "All Red characters gain +2 attack.\n\u6240\u6709\u71BE\u7130\u5C6C\u6027\u5361\u724C\u589E\u52A0
+    2 \u9EDE\u653B\u64CA\u529B"

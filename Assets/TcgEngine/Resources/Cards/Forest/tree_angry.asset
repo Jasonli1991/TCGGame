@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 3
   hp: 5
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 1bc895e873a2be145898a86a2fb9ca03, type: 2}
-  text: Regeneration
+  text: "Regeneration\n\u518D\u751F"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

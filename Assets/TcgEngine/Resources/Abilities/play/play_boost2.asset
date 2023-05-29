@@ -37,4 +37,5 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Bless
-  desc: On play, give +2/2 to another character.
+  desc: "On play, give +2/2 to another character.\n\u6253\u51FA\u6B64\u724C\uFF0C\u7D66\u4E88\u53E6\u4E00\u500B\u751F\u7269
+    +2/2"

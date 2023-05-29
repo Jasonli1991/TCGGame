@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 5
   hp: 2
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 6d42d2cab11ca0d4ea5bd65f049aee22, type: 2}
-  text: <b>Play:</b> Target character's attack is reduced to 1.
+  text: "<b>Play:</b> Target character's attack is reduced to 1.\n<b>\u6253\u51FA:</b>
+    \u76EE\u6A19\u751F\u7269\u7684\u653B\u64CA\u529B\u964D\u4F4E\u70BA 1"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

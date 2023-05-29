@@ -23,9 +23,11 @@ MonoBehaviour:
   attack: 7
   hp: 3
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 0c9e4c459bedf0649b02848c8199b7b0, type: 2}
-  text: <b>Play:</b> Damage all by 2.
+  text: "<b>Play:</b> Damage all by 2.\n<b>\u6253\u51FA:</b> \u9020\u6210\u5168\u5834
+    2 \u9EDE\u50B7\u5BB3"
   desc: 
   spawn_fx: {fileID: 9125387663047351618, guid: bac685160af4aff46ae561a51da6f5f4,
     type: 3}

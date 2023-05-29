@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 2
   hp: 3
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 6578032be95e85d4b967393b25252f91, type: 2}
-  text: Silence target card.
+  text: "Silence target card.\n\u6C88\u9ED8\u76EE\u6A19\u5361\u724C"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

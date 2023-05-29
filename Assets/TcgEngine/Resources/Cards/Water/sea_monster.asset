@@ -27,9 +27,9 @@ MonoBehaviour:
   abilities:
   - {fileID: 11400000, guid: 2ca645d57a4feee409d9793246812051, type: 2}
   - {fileID: 11400000, guid: 59161a18c189c7b4f8ebc48de1523c20, type: 2}
-  text: 'Enemy characters have -1 attack.
-
-    <b>Action:</b> +1 attack to allies.'
+  text: "Enemy characters have -1 attack.\n\u6575\u65B9\u751F\u7269\u7684\u653B\u64CA\u529B\u6E1B\u5C11
+    1 \u9EDE\n<b>Action:</b> +1 attack to allies.\n<b>\u52D5\u4F5C:</b> \u6211\u65B9\u751F\u7269\u589E\u52A0
+    1 \u9EDE\u653B\u64CA\u529B"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}

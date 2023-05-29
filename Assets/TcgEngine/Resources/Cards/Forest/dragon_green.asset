@@ -24,9 +24,10 @@ MonoBehaviour:
   hp: 9
   traits:
   - {fileID: 11400000, guid: 9124c4a8561cfd14d812a55b3e885662, type: 2}
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 643b2aa17cd6c8847884a5771a5656b3, type: 2}
-  text: Spell Immunity
+  text: "Spell Immunity\n\u6CD5\u8853\u514D\u75AB"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

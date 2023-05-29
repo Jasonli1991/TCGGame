@@ -35,4 +35,4 @@ MonoBehaviour:
   target_audio: {fileID: 0}
   charge_target: 0
   title: Armageddon
-  desc: Destroy all characters on the board
+  desc: "Destroy all characters on the board\n\u6467\u6BC0\u5834\u4E0A\u7684\u6240\u6709\u751F\u7269"

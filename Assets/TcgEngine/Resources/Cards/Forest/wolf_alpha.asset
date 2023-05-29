@@ -24,12 +24,12 @@ MonoBehaviour:
   hp: 2
   traits:
   - {fileID: 11400000, guid: 9436e14bc49faf74595ac5f19b793ba3, type: 2}
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 952d8d808aec0464a8135270b1ed4049, type: 2}
   - {fileID: 11400000, guid: c04ebd6a2109d0e4891c3e1dc9786993, type: 2}
-  text: '<b>Play</b>: Summon baby wolves.
-
-    All Wolves +1 attack.'
+  text: "<b>Play</b>: Summon baby wolves.\nAll Wolves +1 attack.\n<b>\u6253\u51FA</b>:
+    \u53EC\u559A\u5C0F\u72FC\uFF0C\n\u6240\u6709\u72FC\u589E\u52A0 1 \u9EDE\u653B\u64CA\u529B"
   desc: 
   spawn_fx: {fileID: 5791330189299518109, guid: 1fa8fa11b2c6b9b4d976743e5bbb3956,
     type: 3}

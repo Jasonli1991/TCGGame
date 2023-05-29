@@ -23,9 +23,10 @@ MonoBehaviour:
   attack: 1
   hp: 1
   traits: []
+  stats: []
   abilities:
   - {fileID: 11400000, guid: 3d135ff62bef5924e898d38ff78b4b4e, type: 2}
-  text: <b>Death:</b> Draw a card.
+  text: "<b>Death:</b> Draw a card.\n<b>\u6B7B\u4EA1:</b> \u62BD\u4E00\u5F35\u5361\u724C"
   desc: 
   spawn_fx: {fileID: 2106287953758554471, guid: a1e1ec86d02e969408bf2a6c17010f46,
     type: 3}
